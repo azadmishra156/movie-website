@@ -45,3 +45,11 @@ A sleek and responsive web application to browse and explore movies online. Buil
 -   **Movie API:** For fetching movie data
 
 ## 📂 Project Structure
+
+movie-browser-website/
+├── index.html          # Main HTML page
+├── style.css           # Main stylesheet
+├── script.js           # JavaScript for functionality
+├── assets/             # Images, icons, logos
+└── README.md           # Project documentation
+
